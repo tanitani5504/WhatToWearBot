@@ -19,6 +19,7 @@ Start the conversation with the chatbot using the "/start" command.
 Choose your gender through interactive buttons: "Woman" or "Man."
 Provide your location (city) to get personalized weather-based fashion recommendations.
 Receive outfit suggestions based on the current weather conditions, including clothing descriptions and additional tips.
+
 🚀 Technologies Used:
 
 Telebot Library: Facilitates the interaction between the Telegram platform and the Python script.
